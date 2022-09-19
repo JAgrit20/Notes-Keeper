@@ -29,7 +29,7 @@ function Heading() {
                 </a>
               </li>
               <li>
-                <a href="https://github.com/JAgrit20/" className="blue-text text-darken-2">
+                <a href="https://github.com/JAgrit20/Notes-Keeper" className="blue-text text-darken-2">
                   <i className="material-icons">code</i>
                 </a>
               </li>
